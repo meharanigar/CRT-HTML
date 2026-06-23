@@ -1,0 +1,30 @@
+h1{
+    color: brown;
+    font-family: Arial, Helvetica, sans-serif;
+}
+p{
+    color: darkkhaki;
+}
+body{
+    background-color: rgb(226, 235, 239);
+}
+.index{
+    font-weight: 100;
+    color: rgb(11, 191, 164);
+}
+#name{
+    background-color: rgb(162, 101, 218);
+}
+*{
+    background-color: rgb(141, 115, 141);
+    font-family: serif;
+}
+a[href]{
+    color:red;
+}
+input[text]{
+    background-color: cyan;
+}
+input[email]{
+    background-color:peachpuff;
+}

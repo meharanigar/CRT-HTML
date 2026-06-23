@@ -1,0 +1,17 @@
+body {
+    background-color: white;
+    font-family: Arial;
+}
+
+h5 {
+    color: blue;
+    font-size: 40px;
+}
+input[type="submit"] {
+    background-color: rgb(29, 29, 197);
+    
+    color: white;
+}
+button[type="submit"]{
+    background-color:  rgb(29, 29, 197);
+}
