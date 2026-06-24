@@ -1,0 +1,26 @@
+body{
+    background-image: url("download.jpg");
+}
+section{
+    background:white;
+    width:80%;
+    margin:25px auto;
+    padding:20px;
+    border-radius:10px;
+    box-shadow:0px 3px 10px rgba(224, 42, 42, 0.15);
+}
+.it:hover{
+    color: rgb(202, 139, 153);
+}
+.one{
+    text-align: center;
+    color: lightpink;
+}
+.fot{
+    background-color: aquamarine;
+    color: black;
+}
+.b{
+    background-color: rgb(25, 144, 144);
+    color: black;
+}
