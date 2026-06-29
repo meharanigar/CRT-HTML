@@ -1,8 +1,8 @@
 body{
-    background-image: url("download.jpg");
+    background-image: url(shop.jpg);
 }
 section{
-    background:white;
+    background:rgb(140, 76, 76);
     width:80%;
     margin:25px auto;
     padding:20px;
@@ -17,10 +17,32 @@ section{
     color: lightpink;
 }
 .fot{
-    background-color: aquamarine;
     color: black;
 }
 .b{
     background-color: rgb(25, 144, 144);
     color: black;
+}
+.page{
+    background-image:url(fruit.png);
+}
+.a{
+    font-size:80%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:azure;
+}
+.m{
+    background-image: url(fast.jpg);
+    background-size: auto;
+}
+.c{
+    background-color:rgb(55, 103, 119);
+    table-layout:50px;
+    tab-size:800px;
+}
+.z{
+    background-image:url(dish.webp)
+}
+.x{
+    background-image: url(images.jpg);
 }
